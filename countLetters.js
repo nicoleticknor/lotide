@@ -17,7 +17,7 @@ const countLetters = function(string) {
     }
   }
   return letterCount;
-}
+};
 
 const testCase = {
   l: 1,
@@ -35,5 +35,4 @@ const testCase = {
 console.log("-------test-------");
 console.log(countLetters("lighthouse in the house"));
 console.log(testCase);
-assertEqual(countLetters("lighthouse in the house"), testCase); 
-//why not? 
+assertEqual(countLetters("lighthouse in the house"), testCase);
