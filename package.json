@@ -1,0 +1,20 @@
+{
+  "name": "lotide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Nicole Ticknor",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "description": ""
+}
