@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@nicoleticknor/lotide",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,5 @@
     "test": "test"
   },
   "dependencies": {},
-  "description": ""
+  "description": "Educational student project"
 }
