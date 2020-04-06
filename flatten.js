@@ -35,12 +35,12 @@ const flatten = function(arrayWithOtherArrays) {
   return flatArray;
 };
 
-let testOne = flatten([1, 2, [3, 4], 5, [6]]);
-let testTwo = flatten([[], 1, 2, [undefined, 3]]);
-let testThree = flatten([1, "2", [3], ["4", 5]]);
-let testFour = flatten([1, [""], 3]);
+// let testOne = flatten([1, 2, [3, 4], 5, [6]]);
+// let testTwo = flatten([[], 1, 2, [undefined, 3]]);
+// let testThree = flatten([1, "2", [3], ["4", 5]]);
+// let testFour = flatten([1, [""], 3]);
 
-assertArraysEqual(testOne, [1, 2, 3, 4, 5, 6]);
-assertArraysEqual(testTwo, [1, 2, undefined, 3]);
-assertArraysEqual(testThree, [1, "2", 3, "4", 5]);
-assertArraysEqual(testFour, [1, '', 3])
+// assertArraysEqual(testOne, [1, 2, 3, 4, 5, 6]);
+// assertArraysEqual(testTwo, [1, 2, undefined, 3]);
+// assertArraysEqual(testThree, [1, "2", 3, "4", 5]);
+// assertArraysEqual(testFour, [1, '', 3])

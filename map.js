@@ -39,6 +39,6 @@ const assertArraysEqual = function(actual, expected) {
   }
 };
 
-assertArraysEqual(results1, ['c', 'c', 'e', 'o']);
-assertArraysEqual(results2, [5, 8, 3]);
-assertArraysEqual(results3, ["DON'T", "BELIEVE", "IN", "MODERN", "LOVE"]);
+// assertArraysEqual(results1, ['c', 'c', 'e', 'o']);
+// assertArraysEqual(results2, [5, 8, 3]);
+// assertArraysEqual(results3, ["DON'T", "BELIEVE", "IN", "MODERN", "LOVE"]);

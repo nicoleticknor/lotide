@@ -41,5 +41,5 @@ const assertArraysEqual = function(actual, expected) {
   }
 };
 
-assertArraysEqual(friendsList, ['Mario', 'Luigi', 'Yoshi', 'Han Solo']);
-assertArraysEqual(gasPricesList, [135.9, 144.9, 125.9, 134.9]);
+// assertArraysEqual(friendsList, ['Mario', 'Luigi', 'Yoshi', 'Han Solo']);
+// assertArraysEqual(gasPricesList, [135.9, 144.9, 125.9, 134.9]);

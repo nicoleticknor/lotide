@@ -30,8 +30,8 @@ const planetMoons = {
   planetArray: [1, 3]
 }
 
-console.log("---------Tests----------");
-// assertEqual(findKeyByValue(bestTVShowsByGenre, "The Wire"), "drama");
-// assertEqual(findKeyByValue(bestTVShowsByGenre, "That '70s Show"), undefined);
-assertEqual(findKeyByValue(planetMoons, 1), "earth");
-// assertEqual(findKeyByValue(planetMoons, [1, 3]), "planetArray"); // I'll sort this out later.......... stretch for me
+// console.log("---------Tests----------");
+// // assertEqual(findKeyByValue(bestTVShowsByGenre, "The Wire"), "drama");
+// // assertEqual(findKeyByValue(bestTVShowsByGenre, "That '70s Show"), undefined);
+// assertEqual(findKeyByValue(planetMoons, 1), "earth");
+// // assertEqual(findKeyByValue(planetMoons, [1, 3]), "planetArray"); // I'll sort this out later.......... stretch for me

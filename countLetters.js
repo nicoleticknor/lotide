@@ -32,7 +32,7 @@ const testCase = {
   n: 1
 };
 
-console.log("-------test-------");
-console.log(countLetters("lighthouse in the house"));
-console.log(testCase);
-assertEqual(countLetters("lighthouse in the house"), testCase);
+// console.log("-------test-------");
+// console.log(countLetters("lighthouse in the house"));
+// console.log(testCase);
+// assertEqual(countLetters("lighthouse in the house"), testCase);

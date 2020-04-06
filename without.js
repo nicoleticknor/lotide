@@ -35,6 +35,6 @@ const without = function(source, itemsToRemove) {
   }
 };
 
-const words = [1, 2, "lighthouse"];
-without(words, []);
-assertArraysEqual(words, [1, 2, "lighthouse"]);
+// const words = [1, 2, "lighthouse"];
+// without(words, []);
+// assertArraysEqual(words, [1, 2, "lighthouse"]);
